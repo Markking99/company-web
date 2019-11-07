@@ -1,0 +1,45 @@
+body{ background-image: gray;} 
+p { color: black; } 
+h5{ color: white; }
+#logo {
+background-color:blue;
+display: block;
+ margin:0 auto;
+ width: 953px;
+ height: 130px;
+ text-align: center;
+}
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+#contacts{
+background-color:aqua;
+font-family:fantasy;
+font-style:normal;
+ float:inherit;   
+display:grid;
+    
+}
+.img{
+    float:right;
+}
